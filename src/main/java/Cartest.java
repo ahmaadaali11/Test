@@ -1,7 +1,7 @@
 public class Cartest {
 
 
-    String Ahmad;
+   /* String Ahmad;
     String Sami;
 
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Cartest {
         Ahmad =sami+ahmad;
         System.out.println(Ahmad);
         System.out.println("Done");
-    }
+    }*/
 
 
 
